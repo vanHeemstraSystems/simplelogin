@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+simplelogin
+# SimpleLogin: Email Aliases
 
-Based on "ABC" at https://www.abc.com/
+Based on "SimpleLogin" at https://simplelogin.io
+
+Based on "SimpleLogin Chrome Extension" at https://chromewebstore.google.com/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn?hl=en-US&utm_source=ext_sidebar
 
 ## 100 - Introduction
 
