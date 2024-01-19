@@ -7,6 +7,8 @@ Based on "SimpleLogin Chrome Extension" at https://chromewebstore.google.com/det
 
 Based on "How to use Protonmail and SimpleLogin to protect your online privacy" at https://www.youtube.com/watch?v=eUx--17MxfE
 
+Based on "Use an Email Alias!" at https://youtu.be/5HHdk_GP-Ew?t=556
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
